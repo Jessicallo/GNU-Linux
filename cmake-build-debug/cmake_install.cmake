@@ -37,12 +37,15 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
+<<<<<<< HEAD
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/test/cmake_install.cmake")
 
 endif()
 
+=======
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()

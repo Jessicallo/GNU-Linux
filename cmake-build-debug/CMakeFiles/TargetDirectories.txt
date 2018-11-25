@@ -1,6 +1,9 @@
 /home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/CMakeFiles/GNU_Linux.dir
+<<<<<<< HEAD
 /home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
 /home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/test/CMakeFiles/edit_cache.dir
 /home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/test/CMakeFiles/qn_pid.dir
+=======
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4

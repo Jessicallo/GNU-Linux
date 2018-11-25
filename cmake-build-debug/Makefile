@@ -123,6 +123,7 @@ GNU_Linux/fast:
 	$(MAKE) -f CMakeFiles/GNU_Linux.dir/build.make CMakeFiles/GNU_Linux.dir/build
 .PHONY : GNU_Linux/fast
 
+<<<<<<< HEAD
 #=============================================================================
 # Target rules for targets named qn_pid
 
@@ -136,6 +137,8 @@ qn_pid/fast:
 	$(MAKE) -f test/CMakeFiles/qn_pid.dir/build.make test/CMakeFiles/qn_pid.dir/build
 .PHONY : qn_pid/fast
 
+=======
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -172,7 +175,10 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... GNU_Linux"
+<<<<<<< HEAD
 	@echo "... qn_pid"
+=======
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

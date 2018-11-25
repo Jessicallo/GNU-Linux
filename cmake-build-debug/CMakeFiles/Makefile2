@@ -102,6 +102,7 @@ clean: CMakeFiles/GNU_Linux.dir/clean
 .PHONY : clean
 
 #=============================================================================
+<<<<<<< HEAD
 # Directory level rules for directory test
 
 # Convenience name for "all" pass in the directory.
@@ -157,6 +158,8 @@ clean: test/CMakeFiles/qn_pid.dir/clean
 .PHONY : clean
 
 #=============================================================================
+=======
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.

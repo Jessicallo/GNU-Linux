@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
       <config projectName="GNU_Linux" targetName="qn_pid" />
       <config projectName="GNU_Linux" targetName="GNU_Linux" />
     </generated>
   </component>
+=======
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="5d874285-aedf-445f-bede-2e29a239c663" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -151,6 +155,13 @@
       </pane>
       <pane id="Scope" />
     </panes>
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1497" />
+    <option name="y" value="31" />
+    <option name="width" value="1301" />
+    <option name="height" value="797" />
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -158,6 +169,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+<<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -171,6 +183,9 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.qn_pid">
+=======
+  <component name="RunManager" selected="Application.GNU_Linux">
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -181,6 +196,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="qn_pid" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GNU_Linux" TARGET_NAME="qn_pid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GNU_Linux" RUN_TARGET_NAME="qn_pid">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -295,6 +311,13 @@
       </provider>
     </entry>
   </component>
+=======
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.GNU_Linux" />
+    </list>
+  </component>
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">

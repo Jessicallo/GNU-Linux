@@ -5,7 +5,11 @@
 		<Option title="GNU_Linux"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
+<<<<<<< HEAD
 		<Option virtualFolders="CMake Files\;CMake Files\test\;"/>
+=======
+		<Option virtualFolders="CMake Files\;"/>
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/wqn/CLionProjects/GNU-Linux/cmake-build-debug"/>
@@ -83,6 +87,7 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+<<<<<<< HEAD
 			<Target title="qn_pid">
 				<Option output="/home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/test/qn_pid" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/test"/>
@@ -129,10 +134,13 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wqn/CLionProjects/GNU-Linux/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+=======
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
 		</Build>
 		<Unit filename="/home/wqn/CLionProjects/GNU-Linux/main.cpp">
 			<Option target="GNU_Linux"/>
 		</Unit>
+<<<<<<< HEAD
 		<Unit filename="/home/wqn/CLionProjects/GNU-Linux/test/pid-test.cpp">
 			<Option target="qn_pid"/>
 		</Unit>
@@ -142,5 +150,10 @@
 		<Unit filename="/home/wqn/CLionProjects/GNU-Linux/test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\test\"/>
 		</Unit>
+=======
+		<Unit filename="/home/wqn/CLionProjects/GNU-Linux/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+>>>>>>> d7c8ee6f456c180fcc28837b7fe289fa41dd16c4
 	</Project>
 </CodeBlocks_project_file>

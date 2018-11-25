@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/qn_pid.dir/pid-test.cpp.o  -o qn_pid 

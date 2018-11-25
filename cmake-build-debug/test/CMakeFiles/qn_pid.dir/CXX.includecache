@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wqn/CLionProjects/GNU-Linux/test/pid-test.cpp
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+
